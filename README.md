@@ -1,6 +1,6 @@
 # 🌐 Simple Web App
 
-A lightweight web app built with **HTML**, **CSS**, and **JavaScript** — users can enter their name and receive a friendly greeting.
+A lightweight web app built with **HTML**, **CSS**, and **JavaScript**  users can enter their name and receive a friendly greeting.
 
 🔗 **Live Demo:** [https://tonyt2024.github.io/Simple-Web-App/](https://tonyt2024.github.io/Simple-Web-App/)
 
@@ -9,7 +9,7 @@ A lightweight web app built with **HTML**, **CSS**, and **JavaScript** — users
 ## ✨ Features
 - Input your name and get a personalized greeting 🖐️  
 - Simple, clean interface designed for beginners  
-- Built entirely with vanilla HTML, CSS, and JS — no frameworks  
+- Built entirely with vanilla HTML, CSS, and JS no frameworks  
 - Responsive design that works on desktop and mobile  
 
 ---
@@ -37,7 +37,7 @@ A lightweight web app built with **HTML**, **CSS**, and **JavaScript** — users
 ---
 
 ## 💡 About This Project
-This project demonstrates the basics of **web development** — working with input fields, DOM manipulation, and event handling.  
+This project demonstrates the basics of **web development**  working with input fields, DOM manipulation, and event handling.  
 It’s a perfect example of combining **HTML**, **CSS**, and **JavaScript** to build a simple but interactive webpage.
 
 ---
