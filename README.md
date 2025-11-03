@@ -26,9 +26,6 @@ A lightweight web app built with **HTML**, **CSS**, and **JavaScript** — users
 - **CSS3** – styling  
 - **JavaScript (ES6)** – interactivity  
 
----
-
-## 📁 File Structure
 
 ---
 
