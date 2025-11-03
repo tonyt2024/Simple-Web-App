@@ -34,7 +34,7 @@ A lightweight web app built with **HTML**, **CSS**, and **JavaScript** — users
 
 ## 📸 Preview
 <p align="center">
-  <img src="preview.png" alt="Simple Web App Preview" width="400">
+  <img src="Simple Web App Preview.png" alt="Simple Web App Preview" width="400">
 </p>
 
 ---
